@@ -8,3 +8,4 @@ set smartindent
 set expandtab
 set linebreak
 set wrap
+set softtabstop=4
